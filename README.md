@@ -23,8 +23,13 @@ PS C:\Users\Usuário\Documents\Prova>
 ## Explicação 
 
 1.Em qual programa o Cálculo foi execultado?
+
 R: O cálculo foi executado no servidor, na função calcular_pagamento.
+
 2.Qual programa iniciou a solicitação?
+
 R: O cliente iniciou a solicitação, enviando as horas e o valor por hora para o servidor.
+
 3.O que aconteceria com o cliente se o servidor estivesse desligado?
+
 R: O cliente não conseguiria se conectar ao servidor e apresentaria um erro na execução.
